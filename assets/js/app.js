@@ -47,9 +47,9 @@ if(numJuegos>0){
               alert("Respuesta no válida. Has perdido el turno!")
               break;
             }
-        alert("GAME OVER")
+        
       }
-      
+      alert("GAME OVER")  
 }
 else{
     alert("Por favor, ingrese una respuesta válida. Recargue la página para reintentarlo.");
